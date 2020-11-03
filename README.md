@@ -1,4 +1,6 @@
-# Deatondg Texts-swift
+# Texts.swift
+
+This tap hosts just one formula: `texts-swift` for my Texts.swift utility.
 
 ## How do I install these formulae?
 `brew install deatondg/texts-swift/<formula>`
