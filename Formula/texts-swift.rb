@@ -1,4 +1,4 @@
-class Texts_swift < Formula
+class TextsSwift < Formula
   desc "Texts.swift"
   homepage "https://github.com/deatondg/Texts.swift"
   url "https://github.com/deatondg/Texts.swift/archive/1.0.0.tar.gz"
